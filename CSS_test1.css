@@ -2,4 +2,5 @@ h1 {
   color: green;
   background:red;
   word-wrap: break-word;
+  float:right;
 };
